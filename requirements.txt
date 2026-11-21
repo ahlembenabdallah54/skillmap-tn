@@ -1,0 +1,35 @@
+# SKILLMAP TN - Sprint 0 shared Python dependencies
+# Recommended Python version: 3.11 or 3.12
+
+# Data manipulation
+pandas
+numpy
+openpyxl
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# NLP
+nltk
+spacy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Data collection / web parsing
+requests
+beautifulsoup4
+lxml
+
+# Application / API
+streamlit
+fastapi
+uvicorn
+
+# Utilities
+python-dotenv
+tqdm
+pydantic
