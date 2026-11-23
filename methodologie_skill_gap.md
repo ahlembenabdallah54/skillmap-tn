@@ -1,7 +1,6 @@
-# SKILLMAP TN : Méthodologie d'analyse du skill gap
+# Méthodologie d'analyse du skill gap
 
-**Sprint 0, Mission 4 : Skill Gap Analysis & Recommandations (Membre 4)**
-**Présentation : mardi 24 novembre 2026, 20h00**
+**SKILLMAP TN : Analyse des écarts de compétences et recommandations**
 
 ## Objectif
 
